@@ -1,4 +1,4 @@
-test
+[test](https://github.com/4B1G0067/test/edit/master/README.md)
 ===
 
 題目七
@@ -13,7 +13,7 @@ int main()
     std::cout << "Hello World!\n";
 }
 ```
-運用其原理.
+
 
 
 題目八
